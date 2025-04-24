@@ -33,7 +33,7 @@ Demonstrate the use of conditional statements and functions in Python by creatin
 3. Run the script using:
 
 ```bash
-python calculate_discount.py
+python calc-discount.py
 ```
 
 ## Example Output
